@@ -12,19 +12,16 @@ VIEW symbol.sb
 GRAPHIC 119,0 15 0 
 DESIGN @t@o@p
 VIEW symbol.sb
-GRAPHIC 124,0 16 0 
+GRAPHIC 1,0 18 0 
 DESIGN @t@o@p
 VIEW symbol.sb
 GRAPHIC 1,0 19 0 
 DESIGN @t@o@p
-VIEW symbol.sb
-GRAPHIC 1,0 20 0 
+VIEW struct.bd
+NO_GRAPHIC 22
 DESIGN @t@o@p
 VIEW struct.bd
-NO_GRAPHIC 23
-DESIGN @t@o@p
-VIEW struct.bd
-GRAPHIC 41,0 32 0 
+GRAPHIC 41,0 31 0 
 DESIGN @t@o@p
 VIEW struct.bd
 NO_GRAPHIC 35
@@ -33,42 +30,87 @@ VIEW struct.bd
 GRAPHIC 0,0 38 2 
 DESIGN @t@o@p
 VIEW struct.bd
-NO_GRAPHIC 43
+GRAPHIC 351,0 43 0 
 DESIGN @t@o@p
 VIEW struct.bd
-NO_GRAPHIC 44
+GRAPHIC 391,0 44 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 399,0 45 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 407,0 46 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 423,0 47 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 415,0 48 0 
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 50
 LIBRARY Test_Github_lib
 DESIGN edge_detector
 VIEW behave
-GRAPHIC 121,0 46 0 
+GRAPHIC 121,0 52 0 
 DESIGN @t@o@p
 VIEW struct.bd
-NO_GRAPHIC 51
+NO_GRAPHIC 57
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 341,0 59 0 
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 66
 LIBRARY Test_Github_lib
 DESIGN @t@o@p
 VIEW struct.bd
-NO_GRAPHIC 53
+NO_GRAPHIC 68
 DESIGN @t@o@p
 VIEW struct.bd
-GRAPHIC 121,0 56 0 
+GRAPHIC 121,0 71 0 
 DESIGN @t@o@p
 VIEW struct.bd
-NO_GRAPHIC 59
+GRAPHIC 341,0 72 0 
 DESIGN @t@o@p
 VIEW struct.bd
-NO_GRAPHIC 61
+NO_GRAPHIC 75
 DESIGN @t@o@p
 VIEW struct.bd
-GRAPHIC 121,0 63 0 
+NO_GRAPHIC 77
 DESIGN @t@o@p
 VIEW struct.bd
-GRAPHIC 151,0 65 0 
+GRAPHIC 121,0 79 0 
 DESIGN @t@o@p
 VIEW struct.bd
-GRAPHIC 157,0 66 0 
+GRAPHIC 151,0 81 0 
 DESIGN @t@o@p
 VIEW struct.bd
-GRAPHIC 163,0 67 0 
+GRAPHIC 157,0 82 0 
 DESIGN @t@o@p
 VIEW struct.bd
-NO_GRAPHIC 70
+GRAPHIC 353,0 83 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 341,0 85 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 393,0 87 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 401,0 88 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 409,0 89 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 417,0 90 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 425,0 91 0 
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 94
