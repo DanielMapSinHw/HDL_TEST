@@ -1,0 +1,11 @@
+[hdl]
+Test_Github_lib = $HDS_PROJECT_DIR\Test_Github_lib\hdl
+[hds]
+Test_Github_lib = $HDS_PROJECT_DIR\Test_Github_lib\hds
+[hds_settings]
+default_library = Test_Github_lib
+version = 3
+[library_type]
+Test_Github_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

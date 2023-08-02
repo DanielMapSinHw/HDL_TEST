@@ -1,0 +1,74 @@
+DESIGN @t@o@p
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN @t@o@p
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN @t@o@p
+VIEW symbol.sb
+GRAPHIC 114,0 14 0 
+DESIGN @t@o@p
+VIEW symbol.sb
+GRAPHIC 119,0 15 0 
+DESIGN @t@o@p
+VIEW symbol.sb
+GRAPHIC 124,0 16 0 
+DESIGN @t@o@p
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN @t@o@p
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 23
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 41,0 32 0 
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 35
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 0,0 38 2 
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 44
+LIBRARY Test_Github_lib
+DESIGN edge_detector
+VIEW behave
+GRAPHIC 121,0 46 0 
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 51
+LIBRARY Test_Github_lib
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 121,0 56 0 
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 59
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 61
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 121,0 63 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 151,0 65 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 157,0 66 0 
+DESIGN @t@o@p
+VIEW struct.bd
+GRAPHIC 163,0 67 0 
+DESIGN @t@o@p
+VIEW struct.bd
+NO_GRAPHIC 70
